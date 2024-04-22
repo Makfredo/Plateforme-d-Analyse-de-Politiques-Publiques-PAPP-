@@ -1,0 +1,2 @@
+# Plateforme-d-Analyse-de-Politiques-Publiques-PAPP-
+Objectifs du Projet  : Développer une plateforme flexible et modulaire pour une gouvernance stratégique. -Faciliter l'accès aux données et aux outils d'analyse.  Technologies Utilisées :  -Langages de Progr : Python, JavaScript. - Frameworks : Django, React.js, D3.js. - Bases de Données : PostgreSQL, MongoDB. Attendues :  -fonctionnalités et Tests 
